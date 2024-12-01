@@ -1,0 +1,19 @@
+.interaction-tabs-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  width: 478px;
+  background-color: pink;
+}
+
+.tabs-text-container {
+  width: 169px;
+}
+
+.tabs-text {
+  font-size: 14px;
+  font-family: Inter;
+  text-align: center;
+  color: #0f8bfd;
+  font-weight: 600;
+}

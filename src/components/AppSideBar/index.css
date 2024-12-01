@@ -1,0 +1,85 @@
+.sidebar-container {
+  background-color: #0d1424;
+  width: 270px;
+  height: 960px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.app-logo {
+  width: 220px;
+  height: 55.48px;
+  padding-left: 25px;
+}
+.sidebar-content {
+  width: 270px;
+  height: 892.48px;
+  gap: 35px;
+}
+.sidebar-items-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.sidebar-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 48px;
+  width: 100%;
+  padding-right: 25px;
+  padding-left: 25px;
+  gap: 5px;
+  margin-bottom: 5px;
+}
+
+.icon-and-text {
+  width: 203px;
+  height: 34px;
+  gap: 18px;
+  display: flex;
+  align-items: center;
+}
+
+.item-icon {
+  width: 34px;
+  height: 34px;
+}
+.item-text {
+  width: 151px;
+  line-height: 27px;
+  color: #9ea0b3;
+  font-weight: 600;
+  size: 18px;
+  font-family: Inter;
+}
+
+.arrow-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: none;
+}
+
+.arrow-icon {
+  width: 24px;
+  height: 24px;
+}
+.close-container {
+  width: 36px;
+  height: 36px;
+  background-color: #0f8bfd;
+  border-radius: 100%;
+  margin-left: 20px;
+}
+.close-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: none;
+  width: 36px;
+  height: 36px;
+}
+.close-icon {
+  width: 6.79px;
+  height: 12px;
+}

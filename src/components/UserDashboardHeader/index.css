@@ -1,0 +1,111 @@
+.header-container {
+  background-color: #ffffff;
+  border: 1px solid red;
+  min-width: 1650px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+}
+
+.chat-feed-text {
+  width: 139px;
+  line-height: 26px;
+  margin-top: 19px;
+  margin-left: 25px;
+  font-size: 17.5px;
+  font-weight: 500;
+  font-family: Inter;
+  color: #8a8ea6;
+}
+
+.header-details-container {
+  gap: 23px;
+  min-width: 571px;
+  margin-left: auto;
+  margin-right: 23px;
+  display: flex;
+  align-items: center;
+}
+.process-owner-text {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: #fccc55;
+  width: 166px;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  gap: 10px;
+  height: 27px;
+}
+.home-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.admin-text {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: #e553bc;
+  width: 72px;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  gap: 10px;
+  color: #ffffff;
+  height: 27px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16.94px;
+  font-family: Inter;
+}
+.header-user-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 213px;
+}
+.header-user-info-name {
+  line-height: 21px;
+  font-family: Inter;
+  font-weight: 500;
+  font-size: 14px;
+  color: #8a8ea6;
+}
+.avatar {
+  width: 40px;
+  height: 40px;
+}
+
+.settings-icon {
+  width: 20px;
+  height: 20px;
+}
+.logout-container {
+  display: flex;
+  align-items: center;
+}
+.logout-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: none;
+}
+
+.logout-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.logout-text {
+  color: #8a8ea6;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 21px;
+  font-size: 14px;
+}

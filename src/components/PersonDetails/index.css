@@ -1,0 +1,188 @@
+.person-details-container {
+  height: 1060px;
+  width: 450px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  padding-top: 25px;
+}
+
+.person-details-content {
+  width: 410px;
+  height: 1019.99px;
+  margin-left: 20px;
+}
+
+.person-address-container {
+  display: flex;
+  align-items: center;
+}
+
+.cb-logo-container {
+  width: 100px;
+  height: 100px;
+  background-color: #eef0f5;
+  border: 1px solid #4c62921a;
+  border-radius: 100%;
+  text-align: center;
+}
+
+.cb-text {
+  font-weight: 700;
+  font-size: 30.75px;
+  line-height: 37.21px;
+  text-align: center;
+  font-family: Inter;
+  color: #4c6292;
+}
+
+.address-details {
+  width: 290px;
+  margin-left: auto;
+}
+
+.address-sec-heading {
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 42px;
+  font-family: Inter;
+  color: #0f1729;
+  margin-bottom: 0px;
+}
+
+.location-icon {
+  width: 22px;
+  height: 22px;
+}
+
+.address-text {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  font-family: Inter;
+  color: #676b89;
+}
+
+.logo-address-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 0px;
+}
+
+.customer-primary-details-container {
+  list-style-type: none;
+  padding-left: 0px;
+  border: 1px solid #4c62921a;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+.primary-details-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0px;
+  padding-left: 20px;
+}
+
+.three-dots {
+  width: 3.6px;
+  height: 18px;
+}
+
+.value-and-dots {
+  display: flex;
+  align-items: center;
+}
+
+.details-key {
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #676b89;
+}
+
+.value {
+  font-family: Inter;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: #0f1729;
+  margin-right: 20px;
+}
+
+hr {
+  border: 1px solid #44486d1a;
+  margin-top: 0px;
+  margin-left: 20px;
+}
+
+.add-icon-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4c62921a;
+  width: 410px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.plus-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.add-text {
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #0a061a;
+  margin-left: 5px;
+}
+
+.percentage {
+  color: #d7af48;
+  margin-left: 5px;
+}
+.percentage-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.eighty-percentage {
+  color: #48d756;
+}
+
+.assign-agent-button {
+  background-color: #0f8bfd;
+  width: 410px;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  border: none;
+  font-weight: 600;
+  font-family: Inter;
+  font-size: 17.5px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.assign-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 5px;
+}
+.assign-new-button {
+  width: 410px;
+  height: 46px;
+  border: 1px dotted #0f8bfd;
+  border-radius: 10px;
+  color: #0f8bfd;
+  font-weight: 600;
+  font-family: Inter;
+  font-size: 17.5px;
+}
