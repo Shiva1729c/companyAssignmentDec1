@@ -1,0 +1,83 @@
+.catura-container {
+  background-color: #ffffff;
+  width: 450px;
+  height: 369px;
+  border-radius: 10px;
+}
+
+.message-envelope {
+  display: flex;
+  align-items: center;
+  width: 120px;
+  height: 26px;
+  justify-content: space-between;
+}
+
+.catura-top-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #44486d1a;
+  padding: 10px;
+}
+
+.title {
+  font-family: Inter;
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 31.5px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.catura-text {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 21px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.catura-input {
+  width: 345px;
+  height: 50px;
+  gap: 0px;
+  border-radius: 10px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  background: #4c62920a;
+  border: 1px solid #4c62921a;
+  margin-left: 20px;
+  padding: 15px;
+}
+
+.send-catura-btn {
+  width: 50px;
+  height: 50px;
+  padding: 13px 0px 0px 0px;
+  gap: 10px;
+  border-radius: 10px;
+  opacity: 0px;
+  background: #0f8bfd;
+  border: none;
+  margin-left: 10px;
+}
+
+.catura-input-btn {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.catura-template {
+  width: 410px;
+  height: 187px;
+  border-radius: 10px 0px 0px 0px;
+  opacity: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

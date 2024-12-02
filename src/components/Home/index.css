@@ -1,0 +1,22 @@
+.App-bg-container {
+  display: flex;
+}
+
+.App-main-content {
+  display: flex;
+  background-color: #44486d0f;
+  width: 1920px;
+  height: 1268px;
+  top: -212px;
+  left: -290px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.person-Interaction-tabs {
+  display: flex;
+}
+
+.askCatura-action {
+  margin-left: 40px;
+}

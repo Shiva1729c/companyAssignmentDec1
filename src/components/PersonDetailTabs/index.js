@@ -58,11 +58,7 @@ const PersonDetailTabs = () => {
       </li>
     </>
   )
-  return (
-    <div className="person-details-container">
-      <ul className="tabs-container">{renderTabDetails()}</ul>
-    </div>
-  )
+  return <ul className="tabs-container">{renderTabDetails()}</ul>
 }
 
 export default PersonDetailTabs

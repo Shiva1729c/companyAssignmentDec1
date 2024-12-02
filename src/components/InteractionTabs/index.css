@@ -2,18 +2,61 @@
   list-style-type: none;
   padding-left: 0px;
   display: flex;
-  width: 478px;
-  background-color: pink;
+  width: 508px;
+  height: 51px;
 }
 
 .tabs-text-container {
   width: 169px;
+  border-bottom: 1px solid #44486d1a;
+  margin-right: 10px;
 }
 
 .tabs-text {
   font-size: 14px;
   font-family: Inter;
   text-align: center;
+  color: #676b89;
+  font-weight: 500;
+  width: 109px;
+}
+
+.retail {
+  width: 120px;
+  margin-left: 10px;
+}
+
+.escalate-button {
+  width: 132px;
+  height: 47px;
+  padding-top: 16px;
+  padding-right: 30px;
+  padding-bottom: 16px;
+  padding-left: 30px;
+  border-radius: 10px;
+  background-color: #d74848;
+  border: none;
+  cursor: pointer;
+  font-size: 17.5px;
+  font-family: Inter;
+  color: #ffffff;
+  margin-left: 10px;
+}
+
+.active-tab-item {
+  border-bottom: 1px solid #0f8bfd;
+}
+
+.active-tab {
   color: #0f8bfd;
-  font-weight: 600;
+}
+
+.with-cross {
+  display: flex;
+  align-items: center;
+}
+.cross {
+  height: 7.07px;
+  width: 7.07px;
+  margin-left: 5px;
 }

@@ -1,14 +1,8 @@
-.person-details-container {
-  width: 1575px;
-  height: 64px;
-  gap: 15px;
-  height: 100vh;
-}
-
 .tabs-container {
   list-style-type: none;
   padding-left: 0px;
   display: flex;
+  margin-left: 20px;
 }
 
 .tab-item {
